@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmozaffar&label=Profile%20views&color=0e75b6&style=flat" alt="skmozaffar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@skmozaffari" target="blank"><img src="https://img.shields.io/twitter/follow/@skmozaffari?logo=twitter&style=for-the-badge" alt="@skmozaffari" /></a> </p>
+<p align="left"> <a href="https://twitter.com/skmozaffari" target="blank"><img src="https://img.shields.io/twitter/follow/@skmozaffari?logo=twitter&style=for-the-badge" alt="@skmozaffari" /></a> </p>
 
 - 🌱 I’m currently learning **Software automation testing**
 
